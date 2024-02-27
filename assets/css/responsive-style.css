@@ -1,0 +1,687 @@
+.visible-xs {
+	display: none !important;
+}
+
+.hidden-xs {
+	display: block !important;
+}
+
+@media(max-width: 767px) {
+	.visible-xs {
+		display: block !important;
+	}
+
+	.hidden-xs {
+		display: none !important;
+	}
+
+	br {
+		display: none;
+	}
+	.popup-slider .techno-slide img {
+    padding: 1rem 2rem;
+}
+}
+
+@media(max-width: 1400px) {
+	.d-container {
+		width: 1140px;
+	}
+
+	.testimonial-col {
+		padding-left: 0rem;
+	}
+
+	.arab-col {
+		margin-top: -5rem;
+	}
+}
+
+@media(max-width: 1200px) {
+	.d-container {
+		width: 992px;
+	}
+
+	body,
+	html {
+		font-size: 15px;
+	}
+
+	.hero-sec {
+		min-height: 45vw;
+	}
+
+	.feature-content {
+		padding-left: 2.5rem;
+	}
+
+	.feature-slider {
+		padding-right: 2.5rem;
+	}
+
+	.feature-slick .untern-slider1x .slick-next {
+		right: -0.5rem;
+	}
+
+	.feature-slick .untern-slider1x .slick-prev {
+		left: -1rem;
+	}
+
+	.perform-sec {
+		background-position: 70% 100%;
+		padding: 4rem 1rem;
+	}
+
+	.review-sec {
+		padding: 4rem 1rem;
+	}
+
+	.testimonial-content h6 {
+		padding-right: 16rem;
+	}
+
+	.re-pro-content p {
+		padding-right: 3rem;
+	}
+
+	.arab-sec {
+		min-height: 50vw;
+	}
+
+	.arab-sec {
+		background-position: 75% 100%;
+	}
+
+	.white-case-col {
+		padding: 0 0.5rem;
+	}
+
+	.white-case-inner {
+		padding: 1.125rem 1.125rem;
+	}
+
+	.black-case-col .white-case-inner {
+		padding: 2.5rem 1.125rem;
+	}
+}
+
+@media(max-width: 992px) {
+	.d-container {
+		width: 767px;
+	}
+
+	body,
+	html {
+		font-size: 14px;
+	}
+
+	.navbar-list ul {
+		gap: 1rem;
+	}
+
+	.nav-listing {
+		gap: 1rem;
+	}
+
+	.feature-slider {
+		padding-right: 0.5rem;
+	}
+
+	.feature-content {
+		padding-left: 0.5rem;
+	}
+
+	.feature-content h3 {
+		margin-bottom: 1rem;
+	}
+
+	.feature-ul li {
+		margin-top: 1rem;
+	}
+
+	.feature-slick .techno-slide {
+		padding: 0 0.5rem;
+	}
+
+	.techno-slide img {
+		height: 5.5rem;
+	}
+
+	.feature-slick .untern-slider1x .slick-next {
+		right: -.5rem;
+	}
+
+	.feature-li-span p {
+		font-size: 1.125rem;
+	}
+
+	.feature-li-span h6 {
+		font-size: 1.125rem;
+	}
+
+	.feature-content h5 {
+		margin-top: 1rem;
+	}
+
+	.perform-sec {
+		background-position: 75% 100%;
+		padding: 2rem 1rem;
+	}
+
+	.review-profile {
+		padding-right: 3rem;
+	}
+
+	.re-pro-content p {
+		padding-right: 2rem;
+	}
+
+	.testimonial-content h6 {
+		padding-right: 11rem;
+	}
+
+	.testimonial-content {
+		gap: 0.5rem;
+	}
+
+	.review-sec {
+		padding: 3rem 1rem;
+	}
+
+	.arab-col {
+		margin-top: 0;
+	}
+
+	.white-case-dd-ul .feature-li-span {
+		width: calc(100% - 1rem);
+		padding-left: 0.5rem;
+	}
+
+	.white-case-dd-ul .feature-li-img {
+		width: 1rem;
+	}
+
+	.white-case-inner {
+		padding: 1.125rem 1rem;
+	}
+
+	.black-case-col .white-case-inner {
+		padding: 2.5rem 1rem;
+	}
+
+	.dream-sec {
+		padding: 5rem 1rem 5rem;
+	}
+
+	.footer-contact {
+		padding: 0 0.5rem;
+	}
+
+	.popup-slider-img img {
+		padding: 10rem 0;
+	}
+}
+
+@media(max-width: 767px) {
+	.d-container {
+		width: 100%;
+	}
+	.feature-img{
+		padding: 0 1rem;
+	}
+
+	.nav-sec {
+		padding: 3rem 1.5rem;
+		background: #000;
+		position: relative;
+	}
+
+	.hamburger-btn {
+		display: block;
+	}
+
+	.nav-logo a {
+		color: #fff;
+	}
+
+	.navbar-list ul li a {
+		color: #fff;
+	}
+
+	.nav-btn {
+		display: none;
+	}
+
+	.navbar-list ul {
+		flex-direction: column;
+		gap: 2rem;
+		width: 100%;
+		background-color: #000;
+		position: absolute;
+		left: 0;
+		top: 7.75rem;
+		padding: 2rem 0;
+		border-top: 1px solid #FF0101;
+		border-bottom: 1px solid #FF0101;
+	}
+
+	.nav-listing {
+		gap: 0rem;
+	}
+
+	.nav-sec .d-row {
+		flex-direction: row-reverse;
+	}
+
+	.navbar-list {
+		display: none;
+	}
+
+	.hero-sec {
+		padding: 1rem 1.5rem;
+		background-image: url(../images/hero-bg-mbl.png);
+		border-radius: 0.938rem;
+		border-top-left-radius: 0;
+		border-top-right-radius: 0;
+		min-height: 150vw;
+		margin-top: -1px;
+	}
+
+	.hero-sec .d-container {
+		margin-top: 0;
+	}
+
+	.hero-content {
+		margin-top: 4rem;
+	}
+
+	.hero-content p {
+		max-width: 26rem;
+	}
+
+	.feature-col {
+		flex-direction: column-reverse;
+	}
+
+	.feature-slider {
+		padding-right: 0;
+		width: 100%;
+		margin-top: 2rem;
+		position: relative;
+	}
+
+	.feature-content {
+		padding-left: 0;
+		width: 100%;
+	}
+
+	.feature-sec {
+		padding: 4rem 1.5rem;
+	}
+
+	.feature-slick .techno-slide {
+		padding: 0 2rem;
+	}
+
+	.feature-content h3 {
+		padding-right: 19rem;
+	}
+
+	.techno-slide img {
+		height: 7rem;
+	}
+
+	.feature-slick .untern-slider1x .slick-next,
+	.feature-slick .untern-slider1x .slick-prev {
+		position: absolute;
+		top: calc(100% - 35rem);
+		background-size: 1rem;
+	}
+
+	.feature-slick .untern-slider1x .slick-prev {
+		left: 0;
+	}
+
+	.feature-slick .untern-slider1x .slick-next {
+		right: 0;
+	}
+
+	.feature-li-img {
+		width: 1.5rem;
+	}
+
+	.feature-li-span {
+		width: calc(100% - 1.5rem);
+		padding-left: 0.75rem;
+	}
+
+	.feature-li-span p {
+		font-size: 1rem;
+	}
+
+	.feature-li-span h6 {
+		font-size: 1rem;
+	}
+
+	.perform-sec {
+		padding: 6rem 1.5rem 1rem;
+		background-image: url(../images/perform-bg-mbl.png);
+		border-radius: 0.938rem;
+		min-height: 200vw;
+		background-position: 100% 100%;
+	}
+
+	.perform-sec .d-container {
+		margin-top: 0;
+	}
+
+	.perform-content2x-inner {
+		margin-top: 1rem;
+		margin-left: 0;
+		margin-bottom: 0rem;
+	}
+
+	.rtx-point {
+		gap: 0.5rem;
+		margin-top: 1rem;
+	}
+
+	.perform-content1x p {
+		max-width: 29rem;
+	}
+
+	.review-sec {
+		padding: 5rem 0rem;
+	}
+
+	.review-profile {
+		display: none;
+	}
+
+	.testimonial-col {
+		width: 100%;
+	}
+
+	.testimonial-content h1 {
+		padding-right: 23rem;
+		padding-left: 1.5rem;
+	}
+
+	.testimonial-content h2 {
+		width: 100%;
+		text-align: center;
+		padding: 0 1.5rem;
+	}
+
+	.testimonial-content span {
+		width: 100%;
+		justify-content: center;
+		padding: 0 1.5rem;
+	}
+
+	.testimonial-content p {
+		text-align: center;
+		max-width: 26rem;
+		margin: auto;
+		padding: 0 1.5rem;
+	}
+
+	.testimonial-content p br {
+		display: block;
+	}
+
+	.testimonial-content h6 {
+		text-align: center;
+		width: 100%;
+		max-width: 23rem;
+		margin: auto;
+		margin-top: 2.5rem;
+		font-size: 1.5rem;
+		padding: 0 1.5rem;
+	}
+
+	.testimonial-content a {
+		width: 100%;
+		text-align: center;
+		padding: 0 1.5rem;
+	}
+
+	.mbl-testimonial-slick {
+		display: block;
+		width: 100%;
+	}
+
+
+	.mbl-review-profile-inner {
+		display: flex;
+		align-items: center;
+		min-height: 8.25rem;
+		border-radius: 1.25rem;
+		padding: 0.75rem 1.75rem;
+		transition: .3s;
+		box-shadow: 0px 14px 61px -13px #00000040;
+		margin: 3rem 4rem 5rem;
+	}
+
+	.mbl-review-profile-img {
+		width: 5rem;
+	}
+
+	.mbl-review-profile-img img {
+		width: 100%;
+	}
+
+	.mbl-review-profile-content {
+		width: calc(100% - 5rem);
+		padding-left: 1.5rem;
+	}
+
+	.mbl-review-profile-content h3 {
+		margin: 0;
+		font-family: Inter;
+		font-size: 1.5rem;
+		font-weight: 500;
+		color: #000;
+		margin-bottom: 0.125rem;
+	}
+
+	.mbl-review-profile-content h4 {
+		margin: 0;
+		font-family: Inter;
+		font-size: 1.125rem;
+		font-weight: 400;
+		color: #757575;
+	}
+
+	.mbl-testimonial-slick-inner .slick-next,
+	.mbl-testimonial-slick-inner .slick-prev {
+		z-index: 1;
+		background-color: transparent;
+		border-radius: 50%;
+		width: 2rem;
+		height: 2rem;
+		background-size: 1rem;
+		top: calc(50% - 1.5rem);
+		cursor: pointer;
+	}
+
+	.mbl-testimonial-slick-inner .slick-next {
+		background-image: url(../images/left-arw.svg);
+		background-position: 50%;
+		background-repeat: no-repeat;
+		font-size: 0;
+		border: 0;
+		left: 1rem;
+		position: absolute;
+	}
+
+	.mbl-testimonial-slick-inner .slick-prev {
+		background-image: url(../images/right-arw.svg);
+		background-position: 50%;
+		background-repeat: no-repeat;
+		font-size: 0;
+		border: 0;
+		right: 1rem;
+		position: absolute;
+	}
+
+	.mbl-testimonial-slick-inner .slick-dots {
+		display: flex;
+		justify-content: center;
+		margin-top: -2.5rem;
+		position: relative;
+		z-index: 9;
+	}
+
+	.mbl-testimonial-slick-inner .slick-dots li {
+		margin: 0 0.325rem;
+	}
+
+	.mbl-testimonial-slick-inner .slick-dots li button {
+		font-size: 0;
+		border: 0;
+		padding: 0;
+		width: 0.75rem;
+		height: 0.75rem;
+		background: #CDCDCD;
+		border-radius: 50%;
+		transition: all .3s ease;
+		opacity: 1;
+	}
+
+	.mbl-testimonial-slick-inner .slick-dots li.slick-active button {
+		opacity: 1;
+		background: #121212;
+	}
+
+	.arab-sec {
+		background-image: url(../images/arab-bg-mbl.png);
+		min-height: 180vw;
+		background-position: 100% 100%;
+		border-radius: 0.938rem;
+		padding: 1rem 1.5rem;
+	}
+
+	.arab-sec .d-container {
+		margin-top: 0;
+	}
+
+	.case-row-dream {
+		flex-wrap: wrap;
+		flex-direction: column;
+	}
+
+	.white-case-inner {
+		margin-top: 1.5rem !important;
+	}
+
+	.dream-sec {
+		padding: 5rem 1.5rem 5rem;
+	}
+
+	.white-case-col {
+		padding: 0;
+		width: 100%;
+	}
+
+	.white-case-dd-ul .feature-li-img {
+		width: 1.5rem;
+	}
+
+	.white-case-dd-ul .feature-li-span {
+		width: calc(100% - 1.5rem);
+		padding-left: 1rem;
+	}
+
+	.white-case-dd-ul .feature-li-span p {
+		font-size: 0.875rem;
+	}
+
+	.white-case-dd-ul .feature-li-span h6 {
+		font-size: 0.875rem;
+	}
+
+	.black-case-col .white-case-inner {
+		padding: 1.5rem 1rem;
+	}
+
+	.dream-head h1 {
+		max-width: 28rem;
+	}
+
+	.footer-sec {
+		padding: 4rem 1.5rem;
+	}
+
+	.footer-sec .d-row {
+		flex-direction: column;
+		gap: 2rem;
+	}
+
+	.footer-contact {
+		padding: 0;
+		width: 100%;
+	}
+
+	.footer-contact-social {
+		justify-content: start;
+	}
+
+	.foot-last-p {
+		margin-top: 2rem !important;
+	}
+
+	.popup-slider-img img {
+		padding: 15rem 0;
+	}
+}
+
+@media(max-width: 570px) {
+	.hero-sec {
+		min-height: 180vw;
+	}
+.feature-slick .slick-current.slick-active .techno-slide img, .feature-slick .slick-slide .techno-slide:hover img{
+	border-radius: .4rem;
+}
+	.feature-slick .untern-slider1x .slick-next,
+	.feature-slick .untern-slider1x .slick-prev {
+		top: calc(50% - 65vw);
+	}
+
+	.feature-slick .techno-slide {
+		padding: 0 1rem;
+	}
+
+	.techno-slide img {
+    height: 16vw;
+}
+
+	.perform-sec {
+		min-height: 250vw;
+	}
+
+	.mbl-review-profile-inner {
+		min-height: 7rem;
+		padding: 0.75rem 0.75rem;
+	}
+
+	.mbl-review-profile-content {
+		padding-left: 0.75rem;
+		width: calc(100% - 4rem);
+	}
+
+	.mbl-review-profile-img {
+		width: 4rem;
+	}
+
+	.popup-slider-img img {
+		padding: 20rem 0;
+	}
+
+	.popup-slider-inner .slick-next,
+	.popup-slider-inner .slick-prev {
+		width: 1.5rem;
+		height: 1.5rem;
+		background-size: 1.5rem;
+	}
+}

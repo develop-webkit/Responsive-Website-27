@@ -1,0 +1,33 @@
+<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_798_1293)">
+<path d="M16.4417 9.36228C17.0745 9.36228 17.5866 8.85027 17.5866 8.21741" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.4417 1.34814C17.0745 1.34814 17.5866 1.86016 17.5866 2.49302" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1.55827 1.34814C0.925405 1.34814 0.413391 1.86016 0.413391 2.49302" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.4417 9.36218H0.413391" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1.55829 1.34814H16.4417" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.5865 8.2173V2.49292" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0.413391 2.49292V9.36218" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13.5795 7.64493C14.8441 7.64493 15.8692 6.61978 15.8692 5.35518C15.8692 4.09059 14.8441 3.06543 13.5795 3.06543C12.3149 3.06543 11.2897 4.09059 11.2897 5.35518C11.2897 6.61978 12.3149 7.64493 13.5795 7.64493Z" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="13.5795" cy="5.35532" rx="0.413428" ry="0.413428" fill="#CDCDCD"/>
+<path d="M8.99996 7.64493C10.2646 7.64493 11.2897 6.61978 11.2897 5.35518C11.2897 4.09059 10.2646 3.06543 8.99996 3.06543C7.73536 3.06543 6.71021 4.09059 6.71021 5.35518C6.71021 6.61978 7.73536 7.64493 8.99996 7.64493Z" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="8.99994" cy="5.35532" rx="0.413428" ry="0.413428" fill="#CDCDCD"/>
+<path d="M4.42046 7.64493C5.68505 7.64493 6.71021 6.61978 6.71021 5.35518C6.71021 4.09059 5.68505 3.06543 4.42046 3.06543C3.15586 3.06543 2.13071 4.09059 2.13071 5.35518C2.13071 6.61978 3.15586 7.64493 4.42046 7.64493Z" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="4.42045" cy="5.35532" rx="0.413428" ry="0.413428" fill="#CDCDCD"/>
+<path d="M12.4346 17.3764C14.0153 17.3764 15.2968 16.095 15.2968 14.5142C15.2968 12.9335 14.0153 11.652 12.4346 11.652C10.8538 11.652 9.57239 12.9335 9.57239 14.5142C9.57239 16.095 10.8538 17.3764 12.4346 17.3764Z" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.2968 11.652L14.4585 12.4903" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.2968 17.3766L14.5195 16.5994" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.57239 11.652L10.4107 12.4903" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.57239 17.3765L10.4107 16.5381" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.70405 13.6556H3.27557" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.70342 15.373H3.27557" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3.27558 13.6554C2.64272 13.6554 2.13071 13.1434 2.13071 12.5106" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3.27558 15.3727C1.69374 15.3727 0.413391 14.0924 0.413391 12.5106" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2.13071 12.5106V9.36218" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0.413391 12.5106V9.36218" stroke="#CDCDCD" stroke-width="0.815789" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_798_1293">
+<rect width="18" height="16.8551" fill="white" transform="translate(0 0.934753)"/>
+</clipPath>
+</defs>
+</svg>
